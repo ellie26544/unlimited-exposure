@@ -8,7 +8,7 @@ body {
 .header {
   text-align: center;
   padding: 20px;
-  background: white;
+  background: grey;
   border-bottom: 1px solid #ddd;
 }
 
@@ -21,7 +21,7 @@ body {
 }
 
 .post {
-  background: white;
+  background: grey;
   border: 1px solid #ddd;
   border-radius: 10px;
   overflow: hidden;
